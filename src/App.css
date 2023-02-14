@@ -1,0 +1,9 @@
+.tasks-container {
+  border: 2px solid #00d4ff;
+  border-radius: 1rem;
+  padding: 2rem;
+  margin: 4rem auto 2rem auto;
+  width: 80%;
+  max-width: 600px;
+  min-height: 300px;
+}
